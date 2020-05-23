@@ -2,7 +2,7 @@
 # terminal.lib
 
 <p align="center">
-  <img width="460" height="300" src="public/Capture.jpg" alt="Main.jpg">
+  <img width="460" height="300" src="public/Capture.JPG" alt="Main.jpg">
 </p>
 
  A Simple, Easy to use library that adds a terminal-like interface, with the abilty to execute commands like real terminals
